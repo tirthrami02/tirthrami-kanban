@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: auto;
+    padding: 10px;
+    height: 300px;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.whole {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    height: 100vh;
+    background-color: rgb(239, 239, 239);
+}
+
+.oneheading {
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+}
+.heading1{
+    margin-left: 16px;
+    color: rgb(127, 127, 127);
+}
+.twoheading{
+    display: flex;
+    justify-content: space-around;
+    padding-right: 20px;
+}

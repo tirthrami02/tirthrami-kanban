@@ -1,0 +1,39 @@
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL' 0,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 24;
+}
+
+.card {
+    width: 18rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    padding-bottom: 17px;
+    padding-left: 17px;
+    text-align: left;
+    background-color: white;
+}
+
+.card-title {
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+
+.card-subtitle {
+    font-size: 1rem;
+    margin-bottom: 10px;
+    color: #6c757d;
+}
+
+.card-text {
+    font-size: 1rem;
+    display: inline;
+    margin-right: 10px;
+    border: 1px solid black;
+    border-radius: 2px;
+    padding: 3px;
+}

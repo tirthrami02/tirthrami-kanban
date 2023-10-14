@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tirthrami-kanban/static/css/main.94f18c68.css",
+    "main.js": "/tirthrami-kanban/static/js/main.77bed73a.js",
+    "static/js/787.281170c8.chunk.js": "/tirthrami-kanban/static/js/787.281170c8.chunk.js",
+    "index.html": "/tirthrami-kanban/index.html",
+    "main.94f18c68.css.map": "/tirthrami-kanban/static/css/main.94f18c68.css.map",
+    "main.77bed73a.js.map": "/tirthrami-kanban/static/js/main.77bed73a.js.map",
+    "787.281170c8.chunk.js.map": "/tirthrami-kanban/static/js/787.281170c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94f18c68.css",
+    "static/js/main.77bed73a.js"
+  ]
+}
